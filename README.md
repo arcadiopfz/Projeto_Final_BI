@@ -94,13 +94,13 @@ Todas as etapas do projeto foram feitas utilizando ambiente Colab (Google Colabo
 
 Tendo em consideração o objetivo, o trabalho foi organizado em 4 etapas: 
 
-Etapa 1 - Análise exploratória: Pré-processamento e visualização do conjunto de dados da ação da Petro Rio SA (PRIO3)
+     Etapa 1 - Análise exploratória: Pré-processamento e visualização do conjunto de dados da ação da Petro Rio SA (PRIO3)
 
-Etapa 2 - Simulação Monte Carlo para previsão de preços da ação da Petro Rio SA (PRIO3)
+     Etapa 2 - Simulação Monte Carlo para previsão de preços da ação da Petro Rio SA (PRIO3)
 
-Etapa 3 - Séries temporais para previsão de preços da ação Petro Rio SA (PRIO3) utilizando o Facebook Prophet
+     Etapa 3 - Séries temporais para previsão de preços da ação Petro Rio SA (PRIO3) utilizando o Facebook Prophet
 
-Etapa 4 - Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes Neurais LSTM
+     Etapa 4 - Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes Neurais LSTM
 
 Sendo que a Modelagem, consta nas etapas 2, 3 e 4, como pode ser observado no esquema básico do Projeto na figura 2, a seguir: 
 
