@@ -41,6 +41,10 @@ Enxergar que AI, ML e DL são muito utilizados no mercado financeiro, conforme m
 
 Neste sentido, presente trabalho visa percorrer por algumas das ferramentas repassadas no transcorrer do curso de BI, para que seja possível atender a necessidade de uma análise investimentos em ações de uma forma mais ampla, ou seja, percorrendo técnicas e conceitos da pesquisa tradicional (Traditional Research) na área de finanças, de Machine Learning e de Deep Learning, conforme pode ser observado na figura 1 abaixo.
 
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
+
 #### 1.2.	Identificação do Problema
 
 No processo de investimentos em ações muitos investidores utilizam informações qualitativas sobre economia, política, analisam indicadores financeiros e examinam gráficos para saber qual é o melhor o momento para realizar essa transação. “O problema é que os investidores reagem exageradamente ao estresse e tomam decisões pela emoção”. (ZUCKERMAN, 2020 p. 154). 
@@ -100,6 +104,10 @@ Etapa 4 - Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes 
 
 Sendo que a Modelagem, consta nas etapas 2, 3 e 4, como pode ser observado no esquema básico do Projeto na figura 2, a seguir: 
 
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
+
 ### 4.	AVALIAÇÃO
 
 Para a previsão do preço da ação da PRIO.SA nos próximos 30 dias utilizando o Método de Monte Carlo com 100 simulações, foi observado que: 
@@ -112,14 +120,22 @@ Com 99% de probabilidade, o preço seria maior que R$ 24.276331471103337.
 
 No caso das Séries temporais para previsão de preços da ação Petro Rio SA (PRIO3) utilizando o Facebook Prophet, fica evidente que a previsão modelo (curva azul) segue a tendência dos preços reais (pontos pretos), conforme pode observado na figura, a seguir: 
 
- 
+ <div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
 
 
 O modelo de Séries temporais com previsão de preços da ação Petro Rio SA (PRIO3) para de 30 dias utilizando o Facebook Prophet mantem uma tendência entorno R$ 32 reais, como verificado na figura abaixo: 
  
+ <div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
 
 No modelo Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes Neurais LSTM, fica inequívoco que tanto a curva de previstas de teste e train seguem a tendência do valor da ação, como pode observado na figura, a seguir: 
 
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
 
 
 ### 5.	CONCLUSÕES 
