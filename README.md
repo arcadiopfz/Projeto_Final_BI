@@ -1,6 +1,6 @@
 # Análise de investimentos para ações por meio da Simulação de Monte Carlo, Séries Temporais e Redes Neurais LSTM
 
-#### Aluno: [Arcadio de Paula Fernande](https://github.com/arcadiopfz/)
+#### Aluno: [Arcadio de Paula Fernandez](https://github.com/arcadiopfz/)
 #### Orientadora: [Leonardo Alfredo Forero Mendoza](https://github.com/link_do_github)
 
 ---
