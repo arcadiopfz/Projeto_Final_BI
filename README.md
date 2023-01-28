@@ -1,10 +1,8 @@
+#<Título: Análise de investimentos para ações por meio da Simulação de Monte Carlo, Séries Temporais e Redes Neurais LSTM> 
 
 
-#Título: Análise de investimentos para ações por meio da Simulação de Monte Carlo, Séries Temporais e Redes Neurais LSTM 
-
-
-Aluno: Arcadio de Paula Fernandez 
-Orientador: Leonardo Alfredo Forero Mendoza
+**Aluno:** Arcadio de Paula Fernandez 
+**Orientador:** Leonardo Alfredo Forero Mendoza
 
 
 
@@ -12,14 +10,14 @@ Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de c
 
 
 
-#Agradecimentos
+#<Agradecimentos>
 Gostaria de agradecer todos os meus familiares, em especial ao meu querido pai (in memoriam) e a minha querida esposa, que sempre me apoiam nos meus projetos e percurso acadêmico. 
 Agradeço aos professores do curso de pós-graduação em Business Intelligence: Sistemas Inteligentes de Apoio à Decisão em Negócios da PUC-Rio, principalmente, meu orientador Dr. Leonardo Alfredo Forero Mendoza.
 
 
-1.	Introdução 
+#<1.	Introdução> 
 
-1.1.	Motivação
+##<1.1.	Motivação>
 
 O livro “O Homem que decifrou o mercado”, conta a história de como o matemático Jim Simons, formado pelo Massachusetts Institute of Technology - MIT, montou a Renaissance Technologies, uma das maiores corretoras de Investimentos Quantitativos da América do Norte. Sendo que, desde 1988, o fundo Medallion, exclusivo da Renaissance, tem gerado uma média de ganhos anuais de 66% e a empresa registrou lucros de mais de 100 bilhões de dólares com as negociações. Devido a esse sucesso, o próprio Simons tem uma fortuna estimada em 23 bilhões de dólares.
 
@@ -29,11 +27,7 @@ Enxergar que AI, ML e DL são muito utilizados no mercado financeiro, conforme m
 
 Neste sentido, presente trabalho visa percorrer por algumas das ferramentas repassadas no transcorrer do curso de BI, para que seja possível atender a necessidade de uma análise investimentos em ações de uma forma mais ampla, ou seja, percorrendo técnicas e conceitos da pesquisa tradicional (Traditional Research) na área de finanças, de Machine Learning e de Deep Learning, conforme pode ser observado na figura 1 abaixo.
 
- 
-
-
-
-1.2.	Identificação do Problema 
+##<1.2.	Identificação do Problema> 
 
 No processo de investimentos em ações muitos investidores utilizam informações qualitativas sobre economia, política, analisam indicadores financeiros e examinam gráficos para saber qual é o melhor o momento para realizar essa transação. “O problema é que os investidores reagem exageradamente ao estresse e tomam decisões pela emoção”. (ZUCKERMAN, 2020 p. 154). 
 
@@ -41,7 +35,7 @@ Nesse contexto, é provável que não seja coincidência que muitos fundos quant
 
 
 
-1.3.	Objetivo
+##<1.3.	Objetivo>
 
 Levando em conta que, a pesquisa tradicional (Traditional Research) na área de finanças passa pela Simulação Monte Carlo, que é uma série de cálculos de probabilidade que estimam a chance de um evento futuro acontecer, isto é, são feitas diversas simulações para calcular probabilidades de um acerto ou perda.
 
@@ -56,8 +50,8 @@ Considerando que, cabe definir como referencial para a base de dados uma empresa
 O objetivo deste trabalho é o de criar modelos utilizando Simulação Monte Carlo, Séries Temporais e Redes Neurais LSTM, para que seja possível definir o momento mais adequado a se investir em uma ação do mercado de capitais: PRIO3.SA. 
 
 
-2.	Avaliação e análise dos dados disponíveis (Pré-processamento)
-No pré-processamento cabe ressaltar as seguintes atividades: 
+#<2.	Avaliação e análise dos dados disponíveis (Pré-processamento)
+No pré-processamento cabe ressaltar as seguintes atividades:> 
 
 •	Download market data do Yahoo! Finance API
 •	Download de informações do site investing.com
@@ -70,7 +64,7 @@ No pré-processamento cabe ressaltar as seguintes atividades:
 
 Os datasets utilizados neste trabalho estão disponíveis em formato csv no diretório dados.
 
-3.	MODELAGEM 
+#<3.	MODELAGEM> 
 
 Todas as etapas do projeto foram feitas utilizando ambiente Colab (Google Colaboratory) e a Linguagem de Programação foi o Python.
 
@@ -89,7 +83,7 @@ Sendo que a Modelagem, consta nas etapas 2, 3 e 4, como pode ser observado no es
 
 
 
-4.	AVALIAÇÃO
+#<4.	AVALIAÇÃO>
 
 Para a previsão do preço da ação da PRIO.SA nos próximos 30 dias utilizando o Método de Monte Carlo com 100 simulações, foi observado que: 
 
@@ -109,12 +103,12 @@ No modelo Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes 
 
 
 
-#5.	CONCLUSÕES
+#<5.	CONCLUSÕES>
 
 Os modelos de Simulação Monte Carlo, Séries temporais e Redes Neurais LSTM foram eficientes na previsão do comportamento da ação da Petro Rio SA (PRIO3). 
 Uma possível evolução do trabalho seria a inclusão da análise de compra ou venda uma ação por meio de Deep Reinforcement Learning (Deep RL).
 
-#6.	REFERÊNCIAS:  
+#<6.	REFERÊNCIAS:>  
 
 CHOLLET, François. Deep Learning with Python. Second Edition. USA, NY: Manning Publications Co., 2021.
 
@@ -140,7 +134,7 @@ ZUCKERMAN, Gregory. O homem que decifrou o mercado: como Jim Simons criou a revo
 
 
 
-Matrícula: 212.100.462
+**Matrícula:** 212.100.462
 
-Pontifícia Universidade Católica do Rio de Janeiro
-Curso de Pós Graduação Business Intelligence Master
+**Pontifícia Universidade Católica do Rio de Janeiro**
+**Curso de Pós Graduação Business Intelligence Master**
