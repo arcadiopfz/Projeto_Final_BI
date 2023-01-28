@@ -105,7 +105,7 @@ Etapa 4 - Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes 
 Sendo que a Modelagem, consta nas etapas 2, 3 e 4, como pode ser observado no esquema básico do Projeto na figura 2, a seguir: 
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://user-images.githubusercontent.com/122412860/215283921-ba8cab3e-4d6b-4bb2-9c81-4ac54c4fb7b0.png" width="400px" />
 </div>
 
 ### 4.	AVALIAÇÃO
@@ -121,20 +121,20 @@ Com 99% de probabilidade, o preço seria maior que R$ 24.276331471103337.
 No caso das Séries temporais para previsão de preços da ação Petro Rio SA (PRIO3) utilizando o Facebook Prophet, fica evidente que a previsão modelo (curva azul) segue a tendência dos preços reais (pontos pretos), conforme pode observado na figura, a seguir: 
 
  <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://user-images.githubusercontent.com/122412860/215283933-984956c2-20e9-4a06-9a7d-c23715b6aa9b.png" width="400px" />
 </div>
 
 
 O modelo de Séries temporais com previsão de preços da ação Petro Rio SA (PRIO3) para de 30 dias utilizando o Facebook Prophet mantem uma tendência entorno R$ 32 reais, como verificado na figura abaixo: 
  
  <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://user-images.githubusercontent.com/122412860/215283945-c1f261e0-11d7-4b86-aae7-fa92c360f17d.png" width="400px" />
 </div>
 
 No modelo Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes Neurais LSTM, fica inequívoco que tanto a curva de previstas de teste e train seguem a tendência do valor da ação, como pode observado na figura, a seguir: 
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://user-images.githubusercontent.com/122412860/215283954-fb0fe13e-eaba-4851-9282-4bfd0a88b8b1.png" width="400px" />
 </div>
 
 
