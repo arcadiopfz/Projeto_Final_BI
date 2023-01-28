@@ -42,7 +42,7 @@ Enxergar que AI, ML e DL são muito utilizados no mercado financeiro, conforme m
 Neste sentido, presente trabalho visa percorrer por algumas das ferramentas repassadas no transcorrer do curso de BI, para que seja possível atender a necessidade de uma análise investimentos em ações de uma forma mais ampla, ou seja, percorrendo técnicas e conceitos da pesquisa tradicional (Traditional Research) na área de finanças, de Machine Learning e de Deep Learning, conforme pode ser observado na figura 1 abaixo.
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://user-images.githubusercontent.com/122412860/215283444-f379c9a6-7929-4378-ab50-288da6baf1f4.jpg" width="400px" />
 </div>
 
 #### 1.2.	Identificação do Problema
