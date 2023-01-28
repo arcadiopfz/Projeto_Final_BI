@@ -1,11 +1,11 @@
 # Análise de investimentos para ações por meio da Simulação de Monte Carlo, Séries Temporais e Redes Neurais LSTM
 
 #### Aluno: [Arcadio de Paula Fernandez](https://github.com/arcadiopfz/)
-#### Orientadora: [Leonardo Alfredo Forero Mendoza](https://github.com/link_do_github)
+#### Orientadora: [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8)
 
 ---
 
-Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 ---
 
