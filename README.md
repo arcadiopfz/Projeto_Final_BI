@@ -9,6 +9,12 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/) como pré-req
 
 ---
 
+### Agradecimentos
+Gostaria de agradecer todos os meus familiares, em especial ao meu querido pai (in memoriam) e a minha querida esposa, que sempre me apoiam nos meus projetos e percurso acadêmico. 
+Agradeço aos professores do curso de pós-graduação em Business Intelligence: Sistemas Inteligentes de Apoio à Decisão em Negócios da PUC-Rio, principalmente, meu orientador Dr. Leonardo Alfredo Forero Mendoza.
+
+---
+
 ### Resumo
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
@@ -21,11 +27,6 @@ Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod 
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
----
-
-### Agradecimentos
-Gostaria de agradecer todos os meus familiares, em especial ao meu querido pai (in memoriam) e a minha querida esposa, que sempre me apoiam nos meus projetos e percurso acadêmico. 
-Agradeço aos professores do curso de pós-graduação em Business Intelligence: Sistemas Inteligentes de Apoio à Decisão em Negócios da PUC-Rio, principalmente, meu orientador Dr. Leonardo Alfredo Forero Mendoza.
 
 ---
 
