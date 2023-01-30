@@ -17,16 +17,31 @@ Agradeço aos professores do curso de pós-graduação em Business Intelligence:
 
 ### Resumo
 
-<!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
+Resumo
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+No processo de investir em ações, muitos investidores utilizam informações qualitativas sobre economia e política, analisam indicadores financeiros e examinam gráficos para saber qual é o melhor momento para realizar suas transações.
 
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Nesse contexto, os investidores reagem exageradamente ao estresse e tomam decisões pela emoção durante períodos de extrema turbulência no mercado financeiro e consequentemente realizam prejuízos 
 
-### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
+Para alcançar resultados mais promissores, investidores estão cada vez mais utilizando Artificial Intelligence (AI), Machine Learning (ML) e Deep Learning (DL) no mercado financeiro. 
 
+A finalidade deste trabalho é o de criar modelos utilizando Simulação Monte Carlo, Séries Temporais e Redes Neurais LSTM, para que seja possível definir o momento mais adequado a se investir em uma ação. 
+
+**Palavras chave:** Mercado financeiro, Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Simulação Monte Carlo, Séries Temporais e Redes Neurais LSTM
+
+
+### Abstract
+
+In the process of investing in stocks, many investors use qualitative information about the economy and politics, analyze financial indicators and examine charts to find out what is the best time to carry out their transaction.
+
+In this context, investors overreact to stress and make decisions based on emotion during periods of extreme turbulence in the financial market and, consequently, make losses.
+
+To achieve more promising results, investors are increasingly using Artificial Intelligence (AI), Machine Learning (ML) and Deep Learning (DL) in the financial market.
+
+The purpose of this work is to create models using Monte Carlo Simulation, Time Series and LSTM Neural Networks, so that it is possible to define the most appropriate moment to invest in a stock.
+
+**Keywords:**  Financial market, Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Monte Carlo Simulation, Time Series and LSTM Neural Networks
 
 ---
 
@@ -142,7 +157,15 @@ No modelo Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes 
 ### 5.	CONCLUSÕES 
 
 Os modelos de Simulação Monte Carlo, Séries temporais e Redes Neurais LSTM foram eficientes na previsão do comportamento da ação da Petro Rio SA (PRIO3). 
+
+Considerando que, a Lógica Fuzzy é uma boa técnica para modelar o modo de raciocínio do ser humano ao tomar decisões em um ambiente de incerteza e dúvida. Atentando que, o Reinforcement Learning serve para automação e que é um substituto mais avançado do Fuzzy.
+
+Tendo em vista que, o Deep Reinforcement Learning (Deep RL) é a combinação de Reinforcement Learning (RL) e Deep Learning.
+
+Levando em conta que, o principal desafio do Reinforcement Learning está em como o agente deve ser treinado. Em vez de analisar os dados fornecidos, o modelo interage com o ambiente, buscando formas de maximizar a recompensa. No caso do Deep Reinforcement Learning (Deep RL), uma rede neural se encarrega de armazenar as experiências e, assim, melhorar a forma como a tarefa é executada.
+
 Uma possível evolução do trabalho seria a inclusão da análise de compra ou venda uma ação por meio de Deep Reinforcement Learning (Deep RL).
+
 
 ### 6.	REFERÊNCIAS:  
 
