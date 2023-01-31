@@ -122,7 +122,7 @@ Tendo em consideração o objetivo, o trabalho foi organizado em 4 etapas:
 Sendo que a Modelagem, consta nas etapas 2, 3 e 4, como pode ser observado no esquema básico do Projeto na figura 2, a seguir: 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/122412860/215283921-ba8cab3e-4d6b-4bb2-9c81-4ac54c4fb7b0.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/122412860/215283921-ba8cab3e-4d6b-4bb2-9c81-4ac54c4fb7b0.png" width="600px" />
 </div>
 
 ### 4.	Avaliação 
