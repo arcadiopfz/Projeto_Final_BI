@@ -20,8 +20,6 @@ Agradeço aos professores do curso de pós-graduação em Business Intelligence:
 
 ### Resumo
 
-Resumo
-
 
 No processo de investir em ações, muitos investidores utilizam informações qualitativas sobre economia e política, analisam indicadores financeiros e examinam gráficos para saber qual é o melhor momento para realizar suas transações.
 
