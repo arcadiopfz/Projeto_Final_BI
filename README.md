@@ -10,7 +10,10 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/) como pré-req
 ---
 
 ### Agradecimentos
-Gostaria de agradecer todos os meus familiares, em especial ao meu querido pai (in memoriam) e a minha querida esposa, que sempre me apoiam nos meus projetos e percurso acadêmico. 
+Gostaria de agradecer todos os meus familiares, em especial ao meu querido pai (in memoriam) e a minha querida esposa, que sempre me apoiaram nos meus projetos e no meu percurso acadêmico. 
+
+Agradeço aos meus filhos que me inspiraram a não desistir.
+
 Agradeço aos professores do curso de pós-graduação em Business Intelligence: Sistemas Inteligentes de Apoio à Decisão em Negócios da PUC-Rio, principalmente, meu orientador Dr. Leonardo Alfredo Forero Mendoza.
 
 ---
@@ -55,7 +58,7 @@ A Renaissance Technologies, navega muito no universo da Artificial Intelligence 
 
 Enxergar que AI, ML e DL são muito utilizados no mercado financeiro, conforme mencionado pelo Prof. Leonardo Mendoza durante suas aulas, chamou a atenção. 
 
-Neste sentido, presente trabalho visa percorrer por algumas das ferramentas repassadas no transcorrer do curso de BI, para que seja possível atender a necessidade de uma análise investimentos em ações de uma forma mais ampla, ou seja, percorrendo técnicas e conceitos da pesquisa tradicional (Traditional Research) na área de finanças, de Machine Learning e de Deep Learning, conforme pode ser observado na figura 1 abaixo.
+Neste sentido, o presente trabalho visa percorrer algumas das ferramentas repassadas no transcorrer do curso de BI, para que seja possível atender a necessidade de analisar investimentos em ações de uma forma mais ampla, ou seja, percorrendo técnicas e conceitos da pesquisa tradicional (Traditional Research) na área de finanças, de Machine Learning e de Deep Learning, conforme pode ser observado na figura 1 abaixo.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/122412860/215283444-f379c9a6-7929-4378-ab50-288da6baf1f4.jpg" width="400px" />
@@ -75,11 +78,11 @@ Considerando que, AI, ML e DL são técnicas que tem como objetivo modelar o mod
 
 Tendo em vista que, dentro do universo de ML a análise de ações/investimentos frequentemente utiliza aprendizado supervisionado recorrendo ao estudo de séries temporais para constatar padrões não aleatórios em uma série e observar se este comportamento passado permiti fazer previsões sobre o futuro, orientando a tomada de decisões.
 
-Considerando que, no contexto de DL existem as redes neurais recorrentes (RNN — Recurrent Neural Networks) que é um grupo de redes neurais voltadas para o processamento de dados sequenciais. Sendo que, uma variante das RNNs convencionais é a LSTM (Long Short-Term Memory), que tem uma capacidade a bem conhecida de processar dados sequenciais, como são as séries temporais de preços de ações do mercado de capitais. 
+Considerando que, no contexto de DL existem as redes neurais recorrentes (RNN — Recurrent Neural Networks) que é um grupo de redes neurais voltadas para o processamento de dados sequenciais. Sendo que, uma variante das RNNs convencionais é a LSTM (Long Short-Term Memory), que tem uma capacidade bem conhecida de processar dados sequenciais, como são as séries temporais de preços de ações do mercado de financeiro. 
 
 Considerando que, cabe definir como referencial para a base de dados uma empresa com bastante informações qualitativas e com impacto na economia e política, bem como com indicadores financeiros expressivos, optou-se pela  Petro Rio SA (PRIO3)
 
-O objetivo deste trabalho é o de criar modelos utilizando Simulação Monte Carlo, Séries Temporais e Redes Neurais LSTM, para que seja possível definir o momento mais adequado a se investir em uma ação do mercado de capitais: PRIO3.SA. 
+O objetivo deste trabalho é o de criar modelos utilizando Simulação Monte Carlo, Séries Temporais e Redes Neurais LSTM, para que seja possível definir o momento mais adequado a se investir em uma ação do mercado financeiro, no presente caso a PRIO3. 
 
 
 ### 2.	Avaliação e análise dos dados disponíveis (Pré-processamento)
@@ -102,7 +105,7 @@ No pré-processamento cabe ressaltar as seguintes atividades:
 
 •	Comparando o histórico do preço da ação PRIO.SA (PRIO3.SA) com outras 6 ações. 
 
-Os datasets utilizados neste trabalho estão disponíveis em formato csv no diretório dados.
+Os datasets utilizados neste trabalho estão disponíveis em formato csv no [diretório dados](https://github.com/arcadiopfz/Projeto-Final/tree/main/Dados%20do%20Projeto).
 
 ### 3.	MODELAGEM 
 
@@ -110,13 +113,13 @@ Todas as etapas do projeto foram feitas utilizando ambiente Colab (Google Colabo
 
 Tendo em consideração o objetivo, o trabalho foi organizado em 4 etapas: 
 
-     Etapa 1 - Análise exploratória: Pré-processamento e visualização do conjunto de dados da ação da Petro Rio SA (PRIO3)
+    Etapa 1 - Análise exploratória: Pré-processamento e visualização do conjunto de dados da ação da Petro Rio SA (PRIO3)
 
-     Etapa 2 - Simulação Monte Carlo para previsão de preços da ação da Petro Rio SA (PRIO3)
+    Etapa 2 - Simulação Monte Carlo para previsão de preços da ação da Petro Rio SA (PRIO3)
 
-     Etapa 3 - Séries temporais para previsão de preços da ação Petro Rio SA (PRIO3) utilizando o Facebook Prophet
+    Etapa 3 - Séries temporais para previsão de preços da ação Petro Rio SA (PRIO3) utilizando o Facebook Prophet
 
-     Etapa 4 - Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes Neurais LSTM
+    Etapa 4 - Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes Neurais LSTM
 
 Sendo que a Modelagem, consta nas etapas 2, 3 e 4, como pode ser observado no esquema básico do Projeto na figura 2, a seguir: 
 
@@ -134,20 +137,20 @@ Com 95% de probabilidade, o preço seria maior que R$ 28.103680220487078.
  
 Com 99% de probabilidade, o preço seria maior que R$ 24.276331471103337.
 
-No caso das Séries temporais para previsão de preços da ação Petro Rio SA (PRIO3) utilizando o Facebook Prophet, fica evidente que a previsão modelo (curva azul) segue a tendência dos preços reais (pontos pretos), conforme pode observado na figura, a seguir: 
+No caso das Séries temporais para previsão de preços da ação Petro Rio SA (PRIO3) utilizando o Facebook Prophet, fica evidente que a previsão do modelo (curva azul) segue a tendência dos preços reais (pontos pretos), conforme pode ser observado na figura, a seguir: 
 
  <div align="center">
 <img src="https://user-images.githubusercontent.com/122412860/215283933-984956c2-20e9-4a06-9a7d-c23715b6aa9b.png" width="400px" />
 </div>
 
 
-O modelo de Séries temporais com previsão de preços da ação Petro Rio SA (PRIO3) para de 30 dias utilizando o Facebook Prophet mantem uma tendência entorno R$ 32 reais, como verificado na figura abaixo: 
+O modelo de Séries temporais com previsão de preços da ação Petro Rio SA (PRIO3) para 30 dias utilizando o Facebook Prophet mantem uma tendência entorno de R$ 32, como verificado na figura abaixo: 
  
  <div align="center">
 <img src="https://user-images.githubusercontent.com/122412860/215283945-c1f261e0-11d7-4b86-aae7-fa92c360f17d.png" width="400px" />
 </div>
 
-No modelo Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes Neurais LSTM, fica inequívoco que tanto a curva de previstas de teste e train seguem a tendência do valor da ação, como pode observado na figura, a seguir: 
+No modelo Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes Neurais LSTM, fica inequívoco que tanto a curva de previstas de teste e train seguem a tendência do valor da ação, como pode ser observado na figura, a seguir: 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/122412860/215283954-fb0fe13e-eaba-4851-9282-4bfd0a88b8b1.png" width="400px" />
@@ -164,7 +167,7 @@ Tendo em vista que, o Deep Reinforcement Learning (Deep RL) é a combinação de
 
 Levando em conta que, o principal desafio do Reinforcement Learning está em como o agente deve ser treinado. Em vez de analisar os dados fornecidos, o modelo interage com o ambiente, buscando formas de maximizar a recompensa. No caso do Deep Reinforcement Learning (Deep RL), uma rede neural se encarrega de armazenar as experiências e, assim, melhorar a forma como a tarefa é executada.
 
-Uma possível evolução do trabalho seria a inclusão da análise de compra ou venda uma ação por meio de Deep Reinforcement Learning (Deep RL).
+Isto posto, uma possível evolução do trabalho seria a inclusão da análise de compra ou venda de uma ação por meio de Deep Reinforcement Learning (Deep RL).
 
 
 ### 6.	REFERÊNCIAS:  
