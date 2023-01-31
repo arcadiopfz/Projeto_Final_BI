@@ -105,7 +105,7 @@ No pré-processamento cabe ressaltar as seguintes atividades:
 
 Os datasets utilizados neste trabalho estão disponíveis em formato csv no [diretório dados](https://github.com/arcadiopfz/Projeto-Final/tree/main/Dados%20do%20Projeto).
 
-### 3.	MODELAGEM 
+### 3.	Modelagem 
 
 Todas as etapas do projeto foram feitas utilizando ambiente Colab (Google Colaboratory) e a Linguagem de Programação foi o Python.
 
@@ -125,7 +125,7 @@ Sendo que a Modelagem, consta nas etapas 2, 3 e 4, como pode ser observado no es
 <img src="https://user-images.githubusercontent.com/122412860/215283921-ba8cab3e-4d6b-4bb2-9c81-4ac54c4fb7b0.png" width="400px" />
 </div>
 
-### 4.	AVALIAÇÃO
+### 4.	Avaliação 
 
 Para a previsão do preço da ação da PRIO.SA nos próximos 30 dias utilizando o Método de Monte Carlo com 100 simulações, foi observado que: 
 
@@ -155,7 +155,7 @@ No modelo Análise dos preços da ação Petro Rio SA (PRIO3) por meio de Redes 
 </div>
 
 
-### 5.	CONCLUSÕES 
+### 5. Conclusões 
 
 Os modelos de Simulação Monte Carlo, Séries temporais e Redes Neurais LSTM foram eficientes na previsão do comportamento da ação da Petro Rio SA (PRIO3). 
 
@@ -168,7 +168,7 @@ Levando em conta que, o principal desafio do Reinforcement Learning está em com
 Isto posto, uma possível evolução do trabalho seria a inclusão da análise de compra ou venda de uma ação por meio de Deep Reinforcement Learning (Deep RL).
 
 
-### 6.	REFERÊNCIAS:  
+### 6.	Referências  
 
 CHOLLET, François. Deep Learning with Python. Second Edition. USA, NY: Manning Publications Co., 2021.
 
